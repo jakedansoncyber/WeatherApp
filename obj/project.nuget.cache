@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "H6Ev8Zv8wvYDNJKDfJ0b/yMTxkTVJPsyfIzdZaVZ2DBJ1LECCtHqMqgfP/eqt4PhdbHyx2IHe6NVROIVnqhsgA==",
+  "success": true,
+  "projectFilePath": "/Users/Jacob.Danson@alaskaair.com/Documents/TestRepos/WeatherApp/WeatherApp/WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/Jacob.Danson@alaskaair.com/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/Jacob.Danson@alaskaair.com/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/Jacob.Danson@alaskaair.com/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/Jacob.Danson@alaskaair.com/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/Jacob.Danson@alaskaair.com/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/Jacob.Danson@alaskaair.com/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
